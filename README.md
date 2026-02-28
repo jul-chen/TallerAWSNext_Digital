@@ -1,2 +1,2 @@
 # TallerAWSNext_Digital
-Github sobre servir un sitio web estático desde bucket S3  
+Repositorio de github sobre servir un sitio web estático desde bucket S3
